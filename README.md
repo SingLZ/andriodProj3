@@ -47,7 +47,8 @@ I have chosen to duplicate the following layout from the **Doulinguo** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+[![Video Title](http://img.youtube.com/vi/jEevviOxzJ4/0.jpg)](https://www.youtube.com/watch?v=jEevviOxzJ4)
+
 
 GIF created with **Youtube**
 
