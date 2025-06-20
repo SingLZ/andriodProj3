@@ -40,7 +40,8 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Doulinguo** app:
 
-<img src='[https://designvault.io/screen/613894df-ece3-41dc-92d0-e0595af495b7](https://imagedelivery.net/TdOFO8cMbrd4pybDkZvV1Q/25badfa6-768a-4242-a64d-fc8cdf830500/q=90,format=auto,onerror=redirect)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+![Description of image](https://imagedelivery.net/TdOFO8cMbrd4pybDkZvV1Q/25badfa6-768a-4242-a64d-fc8cdf830500/q=90,format=auto,onerror=redirect)
+
 
 ## Video Demo
 
